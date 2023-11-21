@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <personaNaturalResidente>
+        <tipoIdentificacion>NIT</tipoIdentificacion>
+        <numeroIdentificacion>287266354</numeroIdentificacion>
+        <departamento>ANTIOQUIA</departamento>
+        <ciudad>MEDELLIN</ciudad>
+        <telefono>234456787</telefono>
+        <direccion>calle 123 no 44 33</direccion>
+        <correo>correo@correo.com</correo>
+    </personaNaturalResidente>
+    <personaNaturalResidente>
+        <tipoIdentificacion>NIT</tipoIdentificacion>
+        <numeroIdentificacion>287266355</numeroIdentificacion>
+        <departamento>CUNDINAMARCA</departamento>
+        <ciudad>BOGOTA</ciudad>
+        <telefono>234456787</telefono>
+        <direccion>calle 123 no 44 33</direccion>
+        <correo>correo@correo.com</correo>
+    </personaNaturalResidente>
+    <personaNaturalResidente>
+        <tipoIdentificacion>NIT</tipoIdentificacion>
+        <numeroIdentificacion>287266356</numeroIdentificacion>
+        <departamento>ANTIOQUIA</departamento>
+        <ciudad>MEDELLIN</ciudad>
+        <telefono>234456787</telefono>
+        <direccion>calle 123 no 44 33</direccion>
+        <correo>correo@correo.com</correo>
+    </personaNaturalResidente>
+    <personaJuridicaResidente>
+        <numeroIdentificacion>NIT</numeroIdentificacion>
+        <nombre>PEDROMELENAS</nombre>
+        <departamento>ANTIOQUIA</departamento>
+        <ciudad>MEDELLIN</ciudad>
+        <tipoEmpresa>1</tipoEmpresa>
+        <sector>PR</sector>
+        <codigoCiiu>1511</codigoCiiu>
+        <tipoEntidadFinanciera>1</tipoEntidadFinanciera>
+        <superIntendenciaVigilante>1</superIntendenciaVigilante>
+        <telefono>25376562</telefono>
+        <direccion>Calle 123 44 55</direccion>
+        <correo>correo@correo.com</correo>
+    </personaJuridicaResidente>
+</root>
