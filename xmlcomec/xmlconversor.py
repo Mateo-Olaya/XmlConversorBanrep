@@ -8,8 +8,8 @@ excel_filepan = pd.ExcelFile('your_excel_file.xlsx')
 root = ET.Element('root')
 
 # Iterate through each sheet and create XML elements
-for sheet_name in excel_file.sheet_names:
-    sheet_data = excel_file.parse(sheet_name)
+for sheet_name in excel_filepan.sheet_names:
+    sheet_data = excel_filepan.parse(sheet_name)
     
     for _, row in sheet_data.iterrows():
         # Create a new element based on sheet name
